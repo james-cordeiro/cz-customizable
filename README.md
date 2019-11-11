@@ -1,3 +1,7 @@
+# FORK
+
+This is a fork no different to original source repo. The only difference is to update commitizen to a forked version. It should be really easy to keep this fork up to date with the original source.
+
 # cz-customizable
 
 The customizable Commitizen plugin (or standalone utility) to help achieve consistent commit messages like the [AngularJS team](https://github.com/angular/angular.js/blob/master/CONTRIBUTING.md#-git-commit-guidelines).

@@ -1,6 +1,6 @@
 {
-  "version": "0.0.0-development",
-  "name": "cz-customizable",
+  "version": "1.0.0",
+  "name": "cz-customizable-forked-sc",
   "description": "Commitizen customizable adapter following the conventional-changelog format.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -36,7 +36,7 @@
   },
   "devDependencies": {
     "codecov.io": "0.1.6",
-    "commitizen": "^3.1.1",
+    "commitizen-forked-sc": "0.0.0-semantically-released",
     "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-config-prettier": "^4.2.0",
@@ -48,7 +48,7 @@
     "jasmine-node": "^1.16.2",
     "prettier": "^1.17.1",
     "rewire": "^4.0.1",
-    "semantic-release": "^15.13.12",
+    "semantic-release": "^15.13.30",
     "travis-deploy-once": "^5.0.11"
   },
   "config": {
